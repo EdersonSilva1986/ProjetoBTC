@@ -1,0 +1,13 @@
+comandos uteis
+
+-- instalar node-red
+npm install -g --unsafe-perm node-red
+
+-- inicializar o serviço do node-red via cmd
+node-red
+
+-- instalar configurações dentro do node-red
+node-red-contrib-binance
+node-red-contrib-cripto.js
+node-red-contrib-mssql
+node-red-contrib-mysql
